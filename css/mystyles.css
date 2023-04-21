@@ -1,0 +1,45 @@
+#top{
+    font-size: 40px;
+    text-align: center;
+    text-decoration: wavy;
+    font-weight: bold;
+    color: darkblue;
+    height: 2;
+    line-height: 2;
+   
+}
+body{
+    background-color: whitesmoke;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+ol{
+    font-size: x-large;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#anchor{
+    color: lightcoral;
+    font-size: medium;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#Homepage{
+    color: lightcoral;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+#Mario{
+    text-align: center;
+    font-size: x-large;
+    color: lightcoral;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+  
